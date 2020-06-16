@@ -13,4 +13,5 @@ Numpy
 
 # Recommended Book
 Title               : OpenCV Computer Vision with Python
+
 Author(s)           : Joseph Howse [Howse, Joseph]
