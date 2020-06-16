@@ -6,3 +6,7 @@ Practice computer vision using opencv library
 OpenCV
 
 Numpy
+
+# Folder Order
+1) Input Output Operations
+2) Capture Video From Camera
